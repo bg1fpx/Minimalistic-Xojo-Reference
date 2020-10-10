@@ -1,4 +1,4 @@
-# A Minimalistic Xojo Reference
+# A Minimalistic Xojo (Real Basic, Real Studio) Reference
 
 Download and unzip "xojo.zip"
 
