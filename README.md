@@ -1,4 +1,4 @@
-# A Minimalistic Xojo Reference
+# Minimalistic Xojo Reference
 
 Screenshot
 
